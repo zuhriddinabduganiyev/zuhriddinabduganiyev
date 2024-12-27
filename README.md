@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
+- LinkedIn: [https://www.linkedin.com/in/zuhriddinabduganiyev/]
+- Twitter: [https://x.com/zuhriddiin]
 
 Feel free to check out my repositories and get in touch if you would like to collaborate on a project or just want to chat about technology!
 
