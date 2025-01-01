@@ -4,20 +4,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Your Current Learning Focus]**
-- 👯 I’m looking to collaborate on **open source projects**
-- 🤔 I’m looking for help with **[Any Area You Need Help With]**
-- 💬 Ask me about **Python, JavaScript, or any of my projects**
-- 📫 How to reach me: [Your Email Address]
-- ⚡ Fun fact: **I love solving puzzles and playing chess in my free time**
+- 🔭 I’m currently working on **https://github.com/zuhriddinabduganiyev/Administrator-ChatBot**
+- 🌱 I’m currently learning **RAG**
+- 👯 I’m looking to collaborate on **https://github.com/zuhriddinabduganiyev/**
+- 💬 Ask me about **Python, ML, AI or any of my projects**
+- 📫 How to reach me: [zuhriddinabduganiyev02@gmail.com]
+- ⚡ Fun fact: **I love solving puzzles and playing counter strike in my free time**
 
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
