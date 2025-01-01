@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning **RAG**
 - 👯 I’m looking to collaborate on **https://github.com/zuhriddinabduganiyev/**
 - 💬 Ask me about **Python, ML, AI or any of my projects**
-- 📫 How to reach me: [zuhriddinabduganiyev02@gmail.com]
+- 📫 How to reach me: **zuhriddinabduganiyev02@gmail.com**
 - ⚡ Fun fact: **I love solving puzzles and playing counter strike in my free time**
 
 ## 🛠️ Technologies & Tools
